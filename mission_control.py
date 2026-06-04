@@ -1,10 +1,10 @@
 dados_missao = [
- [24, 92, 88, 96, 90],
- [27, 80, 72, 94, 85],
- [31, 65, 58, 91, 70],
- [36, 42, 38, 87, 55],
- [39, 28, 19, 78, 35],
- [34, 55, 32, 82, 50]
+    [22, 95, 90, 98, 93],
+    [28, 76, 68, 92, 81],
+    [33, 61, 54, 89, 67],
+    [37, 47, 41, 85, 58],
+    [40, 26, 17, 77, 32],
+    [35, 53, 29, 81, 48]
 ]
 novos_dados = []
 
@@ -94,11 +94,12 @@ def analisar_estabilidade(estabilidade, pontos):
     return pontos
 
 print("==========================================================================")
-print("                           INICIO DO SISTEMA")
+print("                          THE BOITATÁ PROGRAM")
 print("==========================================================================")
-print("MISSION CONTROL AI:")
+print("MISSION: BOITATÁ   ")
+print("Sistema de Monitoramento da Missão")
 print("==========================================================================")
-print("Equipe:")
+print("Equipe: Boitatá 1")
 print("José Augusto Ribeiro Freire Manfrinato //RM:571151")
 print("Guilherme Figueira Velloso //RM:568827")
 print("--------------------------------------------------------------------------")
